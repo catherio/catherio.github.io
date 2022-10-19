@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Date me" page
+---
+
+In 2021, I created a dating profile in Dropbox Paper, pointed a URL at it (cather.io/dateme), and dropped the link in my twitter profile
+A friend discovered it, tweeted it out, it went moderately viral, and many people have since followed suit.
+
+I try to keep it updated!
