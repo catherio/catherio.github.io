@@ -17,7 +17,7 @@ Her: "Well, I think things will have changed so radically and drastically after 
 
 When I heard this, I felt some frustration with this way of describing a good future. Polish people presumably care a lot about Poland, and want Poland to keep existing. 
 
-(FWIW the reason "Poland" came to mind is it's the country with the median *GDP per capita* - more on that in another post)
+(FWIW the reason "Poland" came to mind is I once looked it up as the country with the median *GDP per capita* - more on that in another post)
 
 To state the obvious, it's not *impossible* for societal changes over a decade to be so large that almost all national identities that existed beforehand emerge unrecognizably changed. It's also not *impossible* for such societal change to be something that most people would voluntarily choose for themselves and their families.
 
